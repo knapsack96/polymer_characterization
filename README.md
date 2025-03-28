@@ -11,3 +11,5 @@ For Vulcano, we have already uploaded the encoded versions: HSI_encoded.xlsx.
 Now, if you want to train and test on Galicia dataset, just run GalicianTrainingTest.py.
 If you want, instead, to train on Galicia dataset and test on Vulcano dataset, just run HSI_test.py.
 
+If you want ablation studies, just run ablations.py. The results are already contained in the file ablations.xlsx.
+
